@@ -1,7 +1,7 @@
 # RenewableElecricity
 Renewable Elecricity output studied based on data from World Bank 
 
-####Mini project 3, Machine Learning Course, Åbo Akademi, March 2019
+#### Mini project 3, Machine Learning Course, Åbo Akademi, March 2019
 
 The dataset from the World Bank contains information on 76 economic indicators for numerous countries as well as for some groups of countries. The task: 
 
