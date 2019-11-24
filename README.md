@@ -1,5 +1,5 @@
-# RenewableElecricity
-Renewable Elecricity output studied based on data from World Bank 
+# Renewable Electricity
+Renewable Electricity output studied based on data from World Bank 
 
 #### Mini project 3, Machine Learning Course, Åbo Akademi, March 2019
 
