@@ -6,5 +6,4 @@ The dataset from the World Bank contains information on 76 economic indicators f
 
 To get the full view of the Jupyter Notebook so that all the interactive plots are shown, either
 1. Open the Jupyter Notebook, hover the mouse on top of the the 'stop' sing located on the right side of the header, and click link in appearing text "Limited rendering only, external view available with nbviewer", or
-2. Use following link directly
-https://nbviewer.jupyter.org/github/MariaanaT/RenewableElectricity/blob/a06fe74337e5d038c12c55d00b5d383249bb9d8f/RenewableElectricityOutput.ipynb
+2. Use following link directly https://nbviewer.jupyter.org/github/MariaanaT/RenewableElectricity/blob/931326f68d9bc04c85eff98d4407afe61019d684/RenewableElectricityOutput.ipynb
